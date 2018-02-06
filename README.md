@@ -21,7 +21,10 @@ Trip Location:
 Trip Duration:
 ---
 * Two Weeks
-
+---
+Trip Budget:
+---
+* $20,000
 ---
 Purpose of Trip:
 ---
