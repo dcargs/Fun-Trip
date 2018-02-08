@@ -29,7 +29,7 @@ Trip Budget:
 Purpose of Trip:
 ---
 * Spiritual revelation
-* Finding onself
+* Finding oneself
 * Meeting god
 * Etc.
 
