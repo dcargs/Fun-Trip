@@ -8,6 +8,10 @@ Team Members:
 * Hayden Haddock
 * Ben Thrasher
 --- 
+Axosoft
+---
+* [Link](https://cargilldevin.axosoft.com/)
+---
 Who Is Going On The Trip:
 ---
 * Team Members
@@ -32,4 +36,14 @@ Purpose of Trip:
 * Finding oneself
 * Meeting god
 * Etc.
+
+---
+Trip Details:
+---
++	[Accounting](accounting.md)
++	[Flight](flight_info.md)
++	[Hotel](hotel_info.md)
++	[Rental Car](rental_car.md)
++	[Week 1 Plans](week1plans.md)
++	[Week 2 Plans](week2plans.md)
 
