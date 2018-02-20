@@ -1,7 +1,0 @@
-Accounting Info:
-	Flight Cost: $4,557.05
-	Hotel Cost: $6,328
-	Rental Car Cost: $2,146.84
-	Food/Water Cost: $3,000
-	Tourism/Recreation: $3,000
-	Spending Money: $242/person or 968

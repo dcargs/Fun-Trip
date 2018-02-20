@@ -33,3 +33,13 @@ Purpose of Trip:
 * Meeting god
 * Etc.
 
+---
+Trip Details:
+---
++	[Accounting](accounting.md)
++	[Flight](flight_info.md)
++	[Hotel](hotel_info.md)
++	[Rental Car](rental_car.md)
++	[Week 1 Plans](week1plans.md)
++	[Week 2 Plans](week2plans.md)
+
