@@ -8,3 +8,4 @@ Week 2 Plans
 +	**Day 13:** We will eat lunch at Restaurant Greetje then explore the Van Gogh Museum.
 +	**Day 14:** We will pack our things up and take a cab to the airport at 8:00AM.
 
+[Back to README](README.md)

@@ -5,3 +5,5 @@ Rental Car Information
 +	**Car Type:** `Luxury SUV`
 +	**Pick-up:** `May 14th at 12PM from Schiphol Airport`
 +	**Drop-off:** `May 28th at 9AM at Schiphol Airport`
+
+[Back to README](README.md)
