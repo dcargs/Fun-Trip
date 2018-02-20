@@ -10,7 +10,7 @@ Team Members:
 --- 
 Axosoft
 ---
-* [Link](cargilldevin.axosoft.com)
+* [Link](https://cargilldevin.axosoft.com/)
 ---
 Who Is Going On The Trip:
 ---
